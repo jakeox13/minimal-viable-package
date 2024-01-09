@@ -7,7 +7,7 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "example"
-authors = [{name = "Andrew Blair", email = "andrew.blair@ucsf.edu"}]
+authors = [{name = "Jake Oxendine", email = "Jake.Oxendine@ucsf.edu"}]
 license = {file = "LICENSE"}
 classifiers = ["License :: OSI Approved :: MIT License"]
 dynamic = ["version", "description"]
@@ -17,4 +17,4 @@ dependencies = ["pytest", "numpy", "scipy", "matplotlib", "scikit-learn", "sphin
 source = ["src"]
 
 [project.urls]
-Home = "https://github.com/bmi203-2023/Minimal-Viable-Package"
+Home = "https://github.com/bmi203-2024/Minimal-Viable-Package"
